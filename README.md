@@ -145,7 +145,7 @@ platform darwin -- Python 3.8.13, pytest-7.2.1, pluggy-1.0.0
 rootdir: python-p3-pytest, configfile: pytest.ini
 collected 3 items
 
-string_functions.py contains a function "return_string()" that returns a variable of type str. .                                 [ 33%]
+string_functions.py contains a function "return_string()" that returns a variable of type str. .   .                              [ 33%]
 string_functions.py contains a function "interpolate_string()" that takes a string and inserts it into another string. .         [ 66%]
 string_functions.py contains a function "return_true" that returns True. F                                                       [100%]
 
